@@ -4,7 +4,7 @@
 <h3 align="center"> Full Stack Developer </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdifitahGurhan&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
