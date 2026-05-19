@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Flutter+Developer;UI/UX+Designer;Full+Stack+Developer)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm YOUR Abdifitah Muse Gurhan</h1>
 <h3 align="center"> Full Stack Developer </h3>
 
