@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Abdifitah Muse Gurhan</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Flutter Developer | UI/UX Enthusiast
+🚀 Full Stack Developer
 </h3>
 
 ---
@@ -18,7 +18,7 @@
 
 - 🔭 Currently working on **Flutter Projects**
 - 🌱 Learning **Flutter, UI/UX, Dart & Full Stack Development**
-- 💬 Ask me about **Flutter, React, Dart**
+- 💬 Ask me about **Full Stack Development**
 - 📫 Reach me at: **cabdifitaaxmansour@email.com**
 - ⚡ Fun Fact: **I love coding and building modern apps**
 
